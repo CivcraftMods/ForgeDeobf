@@ -13,7 +13,7 @@
     
     <resources>
         <resource>
-            <directory>${basedir}/src/com/biggestnerd/forgedeobf</directory>
+            <directory>${basedir}</directory>
             <includes>
                 <include>*.csv</include>
             </includes>
